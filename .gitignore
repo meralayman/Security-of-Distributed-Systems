@@ -1,0 +1,7 @@
+.env
+nginx/certs/*.pem
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+*.log
